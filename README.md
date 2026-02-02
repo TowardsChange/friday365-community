@@ -1,6 +1,6 @@
 # Friday365
 
-**An Open-Source AI-Powered Productivity Platform for Microsoft 365**
+**An Open-Source AI-Powered Productivity Platform**
 
 ---
 
@@ -16,7 +16,7 @@ For more information about licensing, contributions, or commercial use, please c
 
 ## 🌟 About Friday365
 
-Friday365 is a comprehensive AI-powered platform designed to enhance productivity within Microsoft 365 ecosystems. Built with a modular architecture, Friday365 empowers organizations and individuals to leverage artificial intelligence for everyday tasks—from intelligent document analysis to automated meeting summaries and deep research capabilities.
+Friday365 is a comprehensive AI-powered platform designed to enhance productivity . Built with a modular architecture, Friday365 empowers organizations and individuals to leverage artificial intelligence for everyday tasks—from intelligent document analysis to automated meeting summaries and deep research capabilities.
 
 As an open-source community tool, Friday365 aims to democratize enterprise AI by providing pre-built, production-ready agents and core services that seamlessly integrate with Microsoft 365.
 
